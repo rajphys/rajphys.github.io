@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Raj test Kumar Manna</title>
-    <link>https://rajphys.github.io/</link>
-    <description>Recent content on Raj test Kumar Manna</description>
+    <title>Raj Kumar  Manna</title>
+    <link>http://rajphys.github.io/</link>
+    <description>Recent content on Raj Kumar  Manna</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-EN</language>
+    <managingEditor>rajphysics.mon@gmail.com (Raj)</managingEditor>
+    <webMaster>rajphysics.mon@gmail.com (Raj)</webMaster>
+    <copyright>(c) 2015 Raj Kumar Manna.</copyright>
     <lastBuildDate>Sat, 29 Mar 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rajphys.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rajphys.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Just another sample post</title>
-      <link>https://rajphys.github.io/posts/newest/</link>
+      <link>http://rajphys.github.io/posts/newest/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://rajphys.github.io/posts/newest/</guid>
+      <author>rajphysics.mon@gmail.com (Raj)</author>
+      <guid>http://rajphys.github.io/posts/newest/</guid>
       <description>
 
 &lt;h2 id=&#34;first-heading:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;First Heading&lt;/h2&gt;
@@ -33,10 +36,10 @@
     
     <item>
       <title>Second Post</title>
-      <link>https://rajphys.github.io/posts/middle/</link>
+      <link>http://rajphys.github.io/posts/middle/</link>
       <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://rajphys.github.io/posts/middle/</guid>
+      <author>rajphysics.mon@gmail.com (Raj)</author>
+      <guid>http://rajphys.github.io/posts/middle/</guid>
       <description>
 
 &lt;h2 id=&#34;sample-post-1:5d41645769bc0f1237f2300a661d7e18&#34;&gt;Sample Post 1&lt;/h2&gt;
@@ -60,10 +63,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>First Post</title>
-      <link>https://rajphys.github.io/posts/oldest/</link>
+      <link>http://rajphys.github.io/posts/oldest/</link>
       <pubDate>Thu, 27 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://rajphys.github.io/posts/oldest/</guid>
+      <author>rajphysics.mon@gmail.com (Raj)</author>
+      <guid>http://rajphys.github.io/posts/oldest/</guid>
       <description>
 
 &lt;h2 id=&#34;sample-post-1:5be75e971689338db5c820fd71089689&#34;&gt;Sample Post 1&lt;/h2&gt;
