@@ -1,20 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Template on Raj test Kumar Manna</title>
-    <link>http://localhost:1313/categories/template/</link>
-    <description>Recent content in Template on Raj test Kumar Manna</description>
+    <title>Template on Raj Kumar Manna</title>
+    <link>http://rajphys.github.io/categories/template/</link>
+    <description>Recent content in Template on Raj Kumar Manna</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 28 Mar 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/template/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright (c) 2015, Raj Kumar Manna; All rights reserved.</copyright>
+    <lastBuildDate>Sat, 05 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://rajphys.github.io/categories/template/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about file</title>
+      <link>http://rajphys.github.io/posts/about/</link>
+      <pubDate>Sat, 05 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/posts/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;sample-post-333:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Sample Post 333&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;h3 id=&#34;sub-heading:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Sub-heading&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, non, ratione, molestiae illo optio quia sequi id fuga natus nihil ad architecto dolor alias ex sunt iste aperiam eius itaque.&lt;/p&gt;
+
+&lt;h2 id=&#34;foo:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;foo&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, neque, eveniet voluptate eos debitis illum qui nostrum eius maxime ratione assumenda suscipit impedit deserunt voluptatibus odio ducimus non. Ex, ratione.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about1 file</title>
+      <link>http://rajphys.github.io/about/</link>
+      <pubDate>Sat, 05 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;sample-post-333:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Sample Post 333&lt;/h2&gt;
+
+&lt;p&gt;To test a about page
+here is alist of pages&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Second Post</title>
-      <link>http://localhost:1313/posts/middle/</link>
+      <link>http://rajphys.github.io/posts/middle/</link>
       <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/middle/</guid>
+      <guid>http://rajphys.github.io/posts/middle/</guid>
       <description>
 
 &lt;h2 id=&#34;sample-post-1:5d41645769bc0f1237f2300a661d7e18&#34;&gt;Sample Post 1&lt;/h2&gt;

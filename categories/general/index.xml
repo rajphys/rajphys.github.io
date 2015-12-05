@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on Raj Kumar Manna</title>
+    <link>http://rajphys.github.io/categories/general/</link>
+    <description>Recent content in General on Raj Kumar Manna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright (c) 2015, Raj Kumar Manna; All rights reserved.</copyright>
+    <lastBuildDate>Sat, 05 Dec 2015 15:57:48 +0530</lastBuildDate>
+    <atom:link href="http://rajphys.github.io/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>resume</title>
+      <link>http://rajphys.github.io/resume/</link>
+      <pubDate>Sat, 05 Dec 2015 15:57:48 +0530</pubDate>
+      
+      <guid>http://rajphys.github.io/resume/</guid>
+      <description>
+
+&lt;h1 id=&#34;resume:c59a67a3c7bc5faa453847420267045e&#34;&gt;Resume&lt;/h1&gt;
+
+&lt;p&gt;Bsc
+Msc&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>http://rajphys.github.io/test/</link>
+      <pubDate>Sat, 05 Dec 2015 15:51:53 +0530</pubDate>
+      
+      <guid>http://rajphys.github.io/test/</guid>
+      <description>
+
+&lt;h1 id=&#34;this-is-test:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;this is test&lt;/h1&gt;
+
+&lt;p&gt;Here it= is the test&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
