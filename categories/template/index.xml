@@ -10,6 +10,32 @@
     <atom:link href="http://rajphys.github.io/categories/template/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title></title>
+      <link>http://rajphys.github.io/research/</link>
+      <pubDate>Sat, 05 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/research/</guid>
+      <description>
+
+&lt;h2 id=&#34;research:42f623b3bad309d5d6619d450af47d40&#34;&gt;Research&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Dynamics of a polyelectrolyte in simple shear flow&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Kandiledath Jayasree, Raj Kumar Manna, Debapriya Banerjee, and P. B. Sunil Kumar&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://scitation.aip.org/content/aip/journal/jcp/139/22/10.1063/1.4837218&#34;&gt;J. Chem. Phys. 139, 224902 (2013)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Excess energy of an ultracold Fermi gas in a trapped geometry&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Shyamal Biswas, Debnarayan Jana, and Raj Kumar Manna&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://dx.doi.org/10.1140/epjd/e2012-30152-y&#34;&gt;Eur. Phys. J. D (2012) 66: 217&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>about file</title>
       <link>http://rajphys.github.io/posts/about/</link>
       <pubDate>Sat, 05 Dec 2015 00:00:00 +0000</pubDate>
@@ -47,7 +73,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 &lt;h2 id=&#34;sample-post-333:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Sample Post 333&lt;/h2&gt;
 
 &lt;p&gt;To test a about page
-here is alist of pages&lt;/p&gt;
+here is alist of pages
+ &lt;img src=&#34;http://rajphys.github.io/img/raj5.png&#34;  height=&#34;100&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

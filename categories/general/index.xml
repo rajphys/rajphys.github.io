@@ -6,13 +6,75 @@
     <description>Recent content in General on Raj Kumar Manna</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright (c) 2015, Raj Kumar Manna; All rights reserved.</copyright>
-    <lastBuildDate>Sat, 05 Dec 2015 15:57:48 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 13 Apr 2016 14:57:48 +0530</lastBuildDate>
     <atom:link href="http://rajphys.github.io/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>cv</title>
+      <link>http://rajphys.github.io/cv/</link>
+      <pubDate>Wed, 13 Apr 2016 14:57:48 +0530</pubDate>
+      
+      <guid>http://rajphys.github.io/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>_index</title>
+      <link>http://rajphys.github.io/_index/</link>
+      <pubDate>Sat, 05 Dec 2015 15:57:48 +0530</pubDate>
+      
+      <guid>http://rajphys.github.io/_index/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;I am currently a graduate student working with &lt;a href=&#34;http://www.physics.iitm.ac.in/~sunil/&#34;&gt;Prof. P B Sunil Kumar&lt;/a&gt; and &lt;a href=&#34;https://www.imsc.res.in/users/rjoy&#34;&gt;Prof. Ronojoy Adhikari&lt;/a&gt; in the &lt;a href=&#34;www.physics.iitm.ac.in&#34;&gt;Department of Physics&lt;/a&gt; at &lt;a href=&#34;www.iitm.ac.in&#34;&gt;Indian Institute of Technology Madras&lt;/a&gt;. Before joining as a research scholar, I did my master degree (M.Sc) in Physics from Department of Physics, IIT Madras and Bachelor of Science (B.Sc.) in Physics from &lt;a href=&#34;http://www.rkmcnarendrapur.org/&#34;&gt;Ramakrishna Mission Residential College&lt;/a&gt;, Narendrapur, affiliated to &lt;a href=&#34;http://www.caluniv.ac.in/&#34;&gt;University of Calcutta&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+My research interests are in the area of non-equilibrium soft condensed matter and biological physics. I use computer simulations to study the complex structures and dynamics of these systems&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>http://rajphys.github.io/test/</link>
+      <pubDate>Sat, 05 Dec 2015 15:51:53 +0530</pubDate>
+      
+      <guid>http://rajphys.github.io/test/</guid>
+      <description>
+
+&lt;h1 id=&#34;this-is-test:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;this is test&lt;/h1&gt;
+
+&lt;p&gt;Here it= is the test&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://rajphys.github.io/contact/</link>
+      <pubDate>Sat, 05 Dec 2015 15:42:28 +0530</pubDate>
+      
+      <guid>http://rajphys.github.io/contact/</guid>
+      <description>
+
+&lt;h2 id=&#34;contact:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Contact&lt;/h2&gt;
+
+&lt;p&gt;HSB-234&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;www.physics.iitm.ac.in~/labs/cfl&#34;&gt;Complex Fuilds and Biological Physics Lab&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Department of Physics&lt;/p&gt;
+
+&lt;p&gt;Indian Institute of Technology Madras&lt;/p&gt;
+
+&lt;p&gt;Chennai, India&lt;/p&gt;
+
+&lt;p&gt;Pin. 600036&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
       <link>http://rajphys.github.io/resume/</link>
-      <pubDate>Sat, 05 Dec 2015 15:57:48 +0530</pubDate>
+      <pubDate>Sat, 05 Dec 2015 14:57:48 +0530</pubDate>
       
       <guid>http://rajphys.github.io/resume/</guid>
       <description>
@@ -104,20 +166,6 @@ First Class (67.5%)&lt;/p&gt;
 &lt;li&gt;Nonlinear Dynamics&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>http://rajphys.github.io/test/</link>
-      <pubDate>Sat, 05 Dec 2015 15:51:53 +0530</pubDate>
-      
-      <guid>http://rajphys.github.io/test/</guid>
-      <description>
-
-&lt;h1 id=&#34;this-is-test:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;this is test&lt;/h1&gt;
-
-&lt;p&gt;Here it= is the test&lt;/p&gt;
 </description>
     </item>
     
