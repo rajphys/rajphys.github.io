@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>http://rajphys.github.io/contact/</loc>
-    <lastmod>2015-12-05T15:42:28+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>http://rajphys.github.io/resume/</loc>
     <lastmod>2015-12-05T14:57:48+05:30</lastmod>
   </url>
@@ -60,6 +55,10 @@
   <url>
     <loc>http://rajphys.github.io/posts/oldest/</loc>
     <lastmod>2014-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rajphys.github.io/contact/</loc>
   </url>
   
 </urlset>
