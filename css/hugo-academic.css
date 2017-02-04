@@ -34,7 +34,7 @@ html {
 
 body {
   font-family: inherit;
-  font-size: 1rem;
+  font-size: 0.9rem;
   line-height: inherit;
   color: inherit;
   margin-top: 71px; /* Offset body content by navbar height. */
@@ -388,7 +388,7 @@ article {
 }
 
 .article-title {
-  font-size: 1.75rem;
+  font-size: 1.00rem;
 }
 
 .article-title a {
@@ -501,13 +501,13 @@ article {
 .pub-list-item .pub-authors {
   line-height: normal;
   font-style: normal;
-  font-size: 1rem;
+  font-size: 0.85rem;
   color: #3170A5;
 }
 
 .pub-list-item .pub-publication {
   color: #090;
-  font-size: 1rem;
+  font-size: 0.85rem;
 }
 
 .pub-list-item .pub-links {
