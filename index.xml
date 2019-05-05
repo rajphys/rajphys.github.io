@@ -11,6 +11,16 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Light-Induced Convective Segregation of Different Sized Microparticles</title>
+      <link>http://rajphys.github.io/publication/light-induced-convective-segregation/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/publication/light-induced-convective-segregation/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Emergent topological phenomena in active polymeric fluids</title>
       <link>http://rajphys.github.io/publication/collective-dynamics-active-polymer/</link>
       <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
