@@ -11,6 +11,16 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Chemical pumps and flexible sheets spontaneously form self-regulating oscillators in solution</title>
+      <link>http://rajphys.github.io/publication/self-oscillation-sheet/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/publication/self-oscillation-sheet/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Achieving Independent Control over Surface and Bulk Fluid Flows in Microchambers</title>
       <link>http://rajphys.github.io/publication/independent-control-over-surface-and-bulk-fluid-flows/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
