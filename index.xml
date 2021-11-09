@@ -10,6 +10,16 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Colloidal Assembly and Separation under UV‐Induced Convective Flows and on Inclines</title>
+      <link>http://rajphys.github.io/publication1/colloidal-assembly-and-separation/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/publication1/colloidal-assembly-and-separation/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Chemical pumps and flexible sheets spontaneously form self-regulating oscillators in solution</title>
       <link>http://rajphys.github.io/publication1/self-oscillation-sheet/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
@@ -154,16 +164,6 @@
       
       <guid>http://rajphys.github.io/project/example-external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamics of a polyelectrolyte in simple shear flow</title>
-      <link>http://rajphys.github.io/publication1/pe_in_shear_flow/</link>
-      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://rajphys.github.io/publication1/pe_in_shear_flow/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
