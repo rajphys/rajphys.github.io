@@ -1,51 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Raj Kumar Manna</title>
+    <title>Research on Raj Kumar Manna</title>
     <link>http://rajphys.github.io/research/index.xml</link>
-    <description>Recent content in Publications on Raj Kumar Manna</description>
+    <description>Recent content in Research on Raj Kumar Manna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Achieving Independent Control over Surface and Bulk Fluid Flows in Microchambers</title>
-      <link>http://rajphys.github.io/research/independent-control-over-surface-and-bulk-fluid-flows/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://rajphys.github.io/research/independent-control-over-surface-and-bulk-fluid-flows/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chemically controlled shape-morphing of elastic sheets</title>
+      <title>Chemically active elastic sheets </title>
       <link>http://rajphys.github.io/research/chemically-controlled-shape-morphing/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>http://rajphys.github.io/research/chemically-controlled-shape-morphing/</guid>
       <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Emergent topological phenomena in active polymeric fluids</title>
-      <link>http://rajphys.github.io/research/collective-dynamics-active-polymer/</link>
-      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://rajphys.github.io/research/collective-dynamics-active-polymer/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Linking Catalyst-Coated Isotropic Colloids into “Active” Flexible Chains Enhances Their Diffusivity</title>
-      <link>http://rajphys.github.io/research/active_colloidal_chain/</link>
-      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://rajphys.github.io/research/active_colloidal_chain/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 </description>
     </item>
     
