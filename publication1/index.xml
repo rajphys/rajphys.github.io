@@ -10,6 +10,16 @@
     <atom:link href="/publication1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Harnessing the power of chemically active sheets in solution</title>
+      <link>http://rajphys.github.io/publication1/harnessing-chemically-active-sheets/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/publication1/harnessing-chemically-active-sheets/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Colloidal Assembly and Separation under UV‐Induced Convective Flows and on Inclines</title>
       <link>http://rajphys.github.io/publication1/colloidal-assembly-and-separation/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
