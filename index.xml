@@ -50,12 +50,14 @@
     </item>
     
     <item>
-      <title>Achieving Independent Control over Surface and Bulk Fluid Flows in Microchambers</title>
-      <link>http://rajphys.github.io/research/independent-control-over-surface-and-bulk-fluid-flows/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <title>Chemically active elastic sheets </title>
+      <link>http://rajphys.github.io/research/chemically-controlled-shape-morphing/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://rajphys.github.io/research/independent-control-over-surface-and-bulk-fluid-flows/</guid>
+      <guid>http://rajphys.github.io/research/chemically-controlled-shape-morphing/</guid>
       <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 </description>
     </item>
     
@@ -65,16 +67,6 @@
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>http://rajphys.github.io/publication1/chemically-controlled-shape-morphing/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chemically controlled shape-morphing of elastic sheets</title>
-      <link>http://rajphys.github.io/research/chemically-controlled-shape-morphing/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://rajphys.github.io/research/chemically-controlled-shape-morphing/</guid>
       <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
@@ -110,31 +102,11 @@
     </item>
     
     <item>
-      <title>Emergent topological phenomena in active polymeric fluids</title>
-      <link>http://rajphys.github.io/research/collective-dynamics-active-polymer/</link>
-      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://rajphys.github.io/research/collective-dynamics-active-polymer/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Linking Catalyst-Coated Isotropic Colloids into “Active” Flexible Chains Enhances Their Diffusivity</title>
       <link>http://rajphys.github.io/publication1/active_colloidal_chain/</link>
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://rajphys.github.io/publication1/active_colloidal_chain/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Linking Catalyst-Coated Isotropic Colloids into “Active” Flexible Chains Enhances Their Diffusivity</title>
-      <link>http://rajphys.github.io/research/active_colloidal_chain/</link>
-      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://rajphys.github.io/research/active_colloidal_chain/</guid>
       <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
@@ -164,6 +136,35 @@
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>http://rajphys.github.io/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics of a polyelectrolyte in simple shear flow</title>
+      <link>http://rajphys.github.io/publication1/pe_in_shear_flow/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/publication1/pe_in_shear_flow/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Excess energy of an ultracold Fermi gas in a trapped geometry</title>
+      <link>http://rajphys.github.io/publication1/ultracold_fermi/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/publication1/ultracold_fermi/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
