@@ -10,6 +10,16 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Self-generated convective flows enhance the rates of chemical reactions</title>
+      <link>http://rajphys.github.io/publication1/self-generated-convective-fluid-flows/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/publication1/self-generated-convective-fluid-flows/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Harnessing the power of chemically active sheets in solution</title>
       <link>http://rajphys.github.io/publication1/harnessing-chemically-active-sheets/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
@@ -154,16 +164,6 @@
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>http://rajphys.github.io/publication1/pe_in_shear_flow/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Excess energy of an ultracold Fermi gas in a trapped geometry</title>
-      <link>http://rajphys.github.io/publication1/ultracold_fermi/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://rajphys.github.io/publication1/ultracold_fermi/</guid>
       <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
