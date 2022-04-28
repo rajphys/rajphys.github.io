@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research1s on Raj Kumar Manna</title>
+    <link>http://rajphys.github.io/research1/index.xml</link>
+    <description>Recent content in Research1s on Raj Kumar Manna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/research1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Research</title>
+      <link>http://rajphys.github.io/research1/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/research1/</guid>
+      <description>&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;dddd&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Active elastic sheets</title>
+      <link>http://rajphys.github.io/research1/active-sheets/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/research1/active-sheets/</guid>
+      <description>&lt;p&gt;The ability to translate chemical cues into mechanical action is a defining feature of living organisms. Inspired to create materials that exhibit analogous ``life-like&amp;rdquo; behavior, we focus on chemically active two dimensional sheets which is driven by self-induced fluid flows. In contrast to active hard spheres, a two dimensional sheet is sufficiently flexible that the flowing fluid drives not only the propulsion, but also the shape evolution of the sheet, transforming the 2D layer into a moving, three dimensional object. Moreover, the transported, evolving sheet affects the flow of the surrounding fluid. Hence, chemically active materials of higher dimensionality and increased flexibility can exhibit rich, cooperative interactions.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt; Self-morphing of active sheets&lt;/h2&gt;   Two-dimensional responsive materials that change shape into complex three-dimensional structures are valuable for creating systems ranging from wearable electronics to soft robotics. We use catalyst-coated elastic sheets to generate controllable fluid flows, which transform the sheets into complex 3D shapes. Moreover, a single sheet   that encompasses multiple catalytic domains can be transformed into a variety of 3D shapes through the addition of one or more reactants. Materials systems that morph on-demand into a variety of distinct structures can simplify manufacturing processes and broaden the utility of soft materials. &lt;br&gt;&lt;a href=&#34;https://doi.org/10.1039/D0MH00730G&#34; target=&#34;_blank&#34;&gt;Manna et al,  Mater. Horiz. &lt;b&gt; 7&lt;/b&gt;, 2314 (2020)&lt;/a&gt;
+
+ 
+
+&lt;video width=100% controls autoplay&gt;
+    &lt;source src=&#34;http://rajphys.github.io/img/MovieS1.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    Your browser does not support the video tag.  
+&lt;/video&gt;
+
+
+&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt; Self-oscillatory behavior of active sheets&lt;/h2&gt;    Self-oscillating systems are resplendent in biology, enabling the beating of the heart, and the self-organization of slime mold. Through modeling, we design bio-inspired materials systems that spontaneously form shape-changing, self-oscillators, which communicate to synchronize both their temporal and spatial behavior. The distinctive combination of the hydrodynamic, fluid-structure, and steric interactions causes two sheets to form coupled oscillators, whose motion is synchronized in time and space. This breadth of dynamic behavior expands the functionality of the coupled oscillators, enabling soft robots to display a variety of self-sustained, self-regulating moves. &lt;br&gt; &lt;a href=&#34;https://www.pnas.org/content/118/12/e202298711&#34; target=&#34;_blank&#34;&gt;Manna et al, Proc. Natl. Acad. Sci. U.S.A. &lt;b&gt; 118&lt;/b&gt;, 12 (2021)&lt;/a&gt;
+
+ 
+
+&lt;video width=100% controls autoplay&gt;
+    &lt;source src=&#34;http://rajphys.github.io/img/MovieS1-so.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    Your browser does not support the video tag.  
+&lt;/video&gt;
+
+
+&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt; Self-rotation of active sheets&lt;/h2&gt;   The intertwining of strands into three-dimensional spirals is ubiquitous in biology, enabling functions from information storage to maintenance of cell structure and directed locomotion. Through computational modeling, we designed immobile and mobile catalyst-coated surfaces in a fluidic microchamber to orchestrate the spontaneous intertwining of 2D flexible sheets into a self-rotating 3D spiral. The results provide guidelines for regulating the spatiotemporal self-organization of flexible layers into hierarchically structured, dynamic 3D objects without use of externally applied power.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Active polymers</title>
+      <link>http://rajphys.github.io/research1/active-polymers/</link>
+      <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/research1/active-polymers/</guid>
+      <description>&lt;p&gt;Active polymers are composed of units which can produce fluid flow around it. Depending on the nature of the activity and the domain, the polymers produce a series of spontaneous motion.  For instance, extensile semiflexible polymers produce autonomous motion  driven by the active flows and contractile polymers shows rotational motion when confined in a spherical cavity. Our study fouces on the collective dynamics of active polymers in confined geometry and demonstrates the dynamic formation of knots and links, nonequilibrium  transition between isotropic and liquid crystalline states and athermal creation and annihilation of different kind of defects.  Moreover, the non-equilibrium fluid flows produced by atcive polymers can be harnessed with smart designs  to transport vesicles ballistically.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt; Entanglement in volume confinement&lt;/h2&gt;   The topological constraint that polymers cannot slide through each other due to
+its connectivity, allows all polymer fluids to contain entanglements to some degree depending on the system properties such as volume fraction.
+The effect of these entanglements is explored and studied in detail by the
+reptation model first proposed by de-Gennes. However, such theories
+are limited to passive systems. Here, we extend these studies to the
+case of active polymers in spherical confinement. We find that at moderate polymer densities, spontaneous and persistent collective motion of extensile polymers leads to chain entanglement which cannot be released through active reptation.  On the contrary, contractile polymers always form entangled state independent of density. &lt;br&gt; &lt;a href=&#34;https://www.nature.com/articles/s42254-021-00395-2&#34; target=&#34;_blank&#34;&gt;Manna et al, Soft Matter &lt;b&gt; 15&lt;/b&gt;, 477  (2019)&lt;/a&gt;
+
+ 
+
+&lt;video width=100% controls autoplay&gt;
+    &lt;source src=&#34;http://rajphys.github.io/img/volume-extensile-a30.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+
+&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt; Dynamics of disclinations in
+surface confinement
+&lt;/h2&gt;    We study suspension
+of extensile and contractile active polymers confined to the surface of a spherical volume.  Spontaneous and persistent collective motion of extensile polymers in surface
+confinement leads to the generation of half-integer topological defects, which
+remarkably, are neither created or annihilated in pairs. Instead, defects
+appear and disappear through active reptation of individual polymer. Our results
+reproduce the phenomenology of several recent experiments and suggest
+non-equilibrium kinetic routes to polymeric structures that are otherwise
+difficult to obtain in equilibrium. &lt;br&gt;&lt;a href=&#34;https://www.nature.com/articles/s42254-021-00395-2&#34; target=&#34;_blank&#34;&gt;Manna et al, Soft Matter &lt;b&gt; 15&lt;/b&gt;, 477  (2019)&lt;/a&gt;
+
+ 
+
+&lt;video width=100% controls autoplay&gt;
+    &lt;source src=&#34;http://rajphys.github.io/img/surface-a30-phis-0p64-2nd.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+
+&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt; Flexibility enhances the diffusivity of short active
+colloidal chains&lt;/h2&gt;    We demonstrate that flexibility enhances the diffusivity of a short active colloidal chain. The active colloidal chain is modeled as a chain of active beads which produce extensile hydrodynamic flow. We found that the diffusivity of active colloidal chain increases with the increase of flexibility. In contrast, there are no significant changes in the diffusivity of passive chain with the flexibility. Our results of diffusivity of the active colloidal chain are in perfect agreement with the experimental results obtained using chains of catalytic micro-particles. Our results suggest that the enhancement of diffusivity in these systems can be attributed to the interplay between chain conformation fluctuations and active hydrodynamic flow.
+&lt;br&gt; &lt;a href=&#34;https://doi.org/10.1021/acsnano.7b04265&#34; target=&#34;_blank&#34;&gt;Biswas et al, ACS Nano &lt;b&gt; 11&lt;/b&gt;, 10 (2017)&lt;/a&gt;
+
+ 
+
+&lt;video width=100% controls autoplay&gt;
+    &lt;source src=&#34;http://rajphys.github.io/img/active-colloidal-chain.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    Your browser does not support the video tag.  
+&lt;/video&gt;
+
+
+&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt; Colloidal transport by an active filaments&lt;/h2&gt;    Enhanced colloidal transport beyond the limit imposed by diffusion is usually achieved through
+external fields. We demonstrate the ballistic transport of a colloidal sphere using internal sources of energy provided by an attached active filament. The speed and efficiency of transport depend on the dynamical conformational states of the filament.This transport mechanism has a remarkable resemblance to the flagellar propulsion of microorganisms which suggests its utility in biomimetic systems.&lt;br&gt;&lt;a href=&#34;https://doi.org/10.1063/1.4972010&#34; target=&#34;_blank&#34;&gt;Manna et al,   J. Chem. Phys. &lt;b&gt;  146&lt;/b&gt; , 024901 (2017)&lt;/a&gt;
+
+ 
+
+&lt;video width=100% controls autoplay&gt;
+    &lt;source src=&#34;http://rajphys.github.io/img/movie-helical.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    Your browser does not support the video tag.  
+&lt;/video&gt;
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Active and driven fluids</title>
+      <link>http://rajphys.github.io/research1/active-driven-fluids/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/research1/active-driven-fluids/</guid>
+      <description>&lt;p&gt;Micropumps that propel fluids using energy derived from chemical reactions or photothermal effects can regulate the assembly and segregation of microparticles in solution. In both chemical and light-driven micropumps, fluid pumping occurs via three different mechanisms: thermal buoyancy, solutal buoyancy and diffusioosmosis. These pumping mechanisms can operate simultaneously and the combination of two or more mechanisms leads to complex fluid flow patterns that enables dynamic control over the motion of immersed microparticles.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt; Segregation of different sized microparticles&lt;/h2&gt;   We demonstrated how light-induced fluid pumps can be harnessed to separate different sized microparticles. A UV light source is used to generate thermal buoyancy driven convective flows in a microchamber that is inclined at an angle with respect to the horizontal axis. Competition between the drag force imposed by this convective fluid flows and the gravitational force acting on the differently sized microparticles gives rise to their spontaneous separation along the bottom of an inclined microchamber. &lt;br&gt; &lt;a href=&#34;https://doi.org/10.1021/acsami.9b03089&#34; target=&#34;_blank&#34;&gt;Manna et al,  ACS Appl. Mater. Interfaces &lt;b&gt; 11 &lt;/b&gt;, 19 (2019)&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://doi.org/10.1002/cnma.202100082&#34; target=&#34;_blank&#34;&gt;Kauffman et al, ChemNanoMat &lt;b&gt; 7&lt;/b&gt;, 805 (2021)&lt;/a&gt;
+
+ 
+&lt;video width=100% controls autoplay&gt;
+    &lt;source src=&#34;http://rajphys.github.io/img/V3s.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    Your browser does not support the video tag.  
+&lt;/video&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt; Independent control over surface and bulk fluid flows&lt;/h2&gt;   We develop a standalone fluidic device that is driven by light and operates without the need for external electrical or mechanical pumps. The light initiates a photochemical reaction in the solution; the release of chemical energy from the reaction is transduced into the spontaneous motion of the surrounding fluid. The generated flow is driven by two simultaneously occurring mechanisms: solutal buoyancy that controls the motion of the bulk fluid and diffusioosmosis that regulates motion near the bottom of the chamber. Consequently, the bulk and surface fluid flows can be directed independently of one another. We demonstrate that this exceptional degree of spatiotemporal control provides a new method for autonomously transporting different-sized particles in opposite directions within the chamber. &lt;br&gt; &lt;a href=&#34;https://doi.org/10.1021/acsami.0c21291&#34; target=&#34;_blank&#34;&gt;Tansi et al, ACS Appl. Mater. Interfaces &lt;b&gt; 13 &lt;/b&gt;, 5 (2021)&lt;/a&gt;
+
+ 
+
+&lt;video width=100% controls autoplay&gt;
+    &lt;source src=&#34;http://rajphys.github.io/img/VideoS4.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    Your browser does not support the video tag.  
+&lt;/video&gt;
+
+
+&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt; Effect of self-induced flows on the rates of chemical reactions&lt;/h2&gt;    Establishing precise control over the rate of chemical reactions has been a long standing goal in the chemical sciences.  We examine if the reaction-induced pumping accelerates the chemical reaction by transporting the reactants to the catalyst at a rate faster than passive diffusion. Using both simulations and experiments, we show a significant increase in reaction rate when reaction-generated convective flow is present.&lt;br&gt;&lt;a href=&#34;https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.1c02593&#34; target=&#34;_blank&#34;&gt;Manna et al, Langmuir &lt;b&gt;38&lt;/b&gt;, 4, (2022)&lt;/a&gt;
+&lt;img src=&#34;http://rajphys.github.io/img/fig1-flow.png&#34; alt=&#34;active-fluids&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

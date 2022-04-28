@@ -80,8 +80,9 @@ h1 {
   font-size: 2.25rem;
 }
 h2 {
-  margin-top: 1rem;
+  margin-top: 2rem;
   font-size: 1.5rem;
+  margin-bottom: 0.5rem
 }
 h3 {
   font-weight: 700;
@@ -392,7 +393,7 @@ article {
 }
 
 .article-title a {
-  color: #151515;
+  color: #151514;
   transition: color 0.6s ease;
 }
 
@@ -440,15 +441,15 @@ article {
   box-shadow: 1px 1px 0px #edefed, -1px -1px 0px #edefed, 1px -1px 0px #edefed, -1px 1px 0px #edefed;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin-top: 11px;
+  margin-bottom: 11px;
   padding-left: 0;
   padding-right: 0;
 }
 
 .article-style figure {
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .article-style figure img {
@@ -510,6 +511,7 @@ article {
   font-size: 0.85rem;
 }
 
+
 .pub-list-item .pub-links {
   padding-top: 10px;
 }
@@ -519,6 +521,12 @@ article {
   position: relative;
   overflow: hidden;
 }
+
+
+
+
+
+
 
 /*************************************************
  * Talks
@@ -1077,3 +1085,8 @@ div.alert a:hover {
   background-color: #f44336; /* Material Red500 */
   border-color: #ebccd1;
 }
+
+ br {
+    line-height: 2px;
+ }
+
