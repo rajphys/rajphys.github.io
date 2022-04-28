@@ -31,8 +31,8 @@
 
  
 
-&lt;video width=100% controls autoplay&gt;
-    &lt;source src=&#34;http://rajphys.github.io/img/MovieS1.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;video width=100% controls autoplay loop&gt;
+    &lt;source src=&#34;http://rajphys.github.io/img/sa-second.mp4&#34; type=&#34;video/mp4&#34;&gt;
     Your browser does not support the video tag.  
 &lt;/video&gt;
 
@@ -43,8 +43,8 @@
 
  
 
-&lt;video width=100% controls autoplay&gt;
-    &lt;source src=&#34;http://rajphys.github.io/img/MovieS1-so.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;video width=100% controls autoplay loop&gt;
+    &lt;source src=&#34;http://rajphys.github.io/img/sa-tog-hmax27.mp4&#34; type=&#34;video/mp4&#34;&gt;
     Your browser does not support the video tag.  
 &lt;/video&gt;
 
@@ -72,7 +72,7 @@ case of active polymers in spherical confinement. We find that at moderate polym
 
  
 
-&lt;video width=100% controls autoplay&gt;
+&lt;video width=100% controls autoplay loop&gt;
     &lt;source src=&#34;http://rajphys.github.io/img/volume-extensile-a30.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 
@@ -92,7 +92,7 @@ difficult to obtain in equilibrium. &lt;br&gt;&lt;a href=&#34;https://www.nature
 
  
 
-&lt;video width=100% controls autoplay&gt;
+&lt;video width=100% controls autoplay loop&gt;
     &lt;source src=&#34;http://rajphys.github.io/img/surface-a30-phis-0p64-2nd.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 
@@ -105,7 +105,7 @@ colloidal chains&lt;/h2&gt;    We demonstrate that flexibility enhances the diff
 
  
 
-&lt;video width=100% controls autoplay&gt;
+&lt;video width=100% controls autoplay loop&gt;
     &lt;source src=&#34;http://rajphys.github.io/img/active-colloidal-chain.mp4&#34; type=&#34;video/mp4&#34;&gt;
     Your browser does not support the video tag.  
 &lt;/video&gt;
@@ -118,7 +118,7 @@ external fields. We demonstrate the ballistic transport of a colloidal sphere us
 
  
 
-&lt;video width=100% controls autoplay&gt;
+&lt;video width=100% controls autoplay loop&gt;
     &lt;source src=&#34;http://rajphys.github.io/img/movie-helical.mp4&#34; type=&#34;video/mp4&#34;&gt;
     Your browser does not support the video tag.  
 &lt;/video&gt;
@@ -139,7 +139,7 @@ external fields. We demonstrate the ballistic transport of a colloidal sphere us
 &lt;p&gt;&lt;h2&gt; Segregation of different sized microparticles&lt;/h2&gt;   We demonstrated how light-induced fluid pumps can be harnessed to separate different sized microparticles. A UV light source is used to generate thermal buoyancy driven convective flows in a microchamber that is inclined at an angle with respect to the horizontal axis. Competition between the drag force imposed by this convective fluid flows and the gravitational force acting on the differently sized microparticles gives rise to their spontaneous separation along the bottom of an inclined microchamber. &lt;br&gt; &lt;a href=&#34;https://doi.org/10.1021/acsami.9b03089&#34; target=&#34;_blank&#34;&gt;Manna et al,  ACS Appl. Mater. Interfaces &lt;b&gt; 11 &lt;/b&gt;, 19 (2019)&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://doi.org/10.1002/cnma.202100082&#34; target=&#34;_blank&#34;&gt;Kauffman et al, ChemNanoMat &lt;b&gt; 7&lt;/b&gt;, 805 (2021)&lt;/a&gt;
 
  
-&lt;video width=100% controls autoplay&gt;
+&lt;video width=100% controls autoplay loop&gt;
     &lt;source src=&#34;http://rajphys.github.io/img/V3s.mp4&#34; type=&#34;video/mp4&#34;&gt;
     Your browser does not support the video tag.  
 &lt;/video&gt;
@@ -150,7 +150,7 @@ external fields. We demonstrate the ballistic transport of a colloidal sphere us
 
  
 
-&lt;video width=100% controls autoplay&gt;
+&lt;video width=100% controls autoplay loop&gt;
     &lt;source src=&#34;http://rajphys.github.io/img/VideoS4.mp4&#34; type=&#34;video/mp4&#34;&gt;
     Your browser does not support the video tag.  
 &lt;/video&gt;
