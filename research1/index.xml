@@ -39,7 +39,7 @@
 
 &lt;/p&gt;
 
-&lt;p&gt;&lt;h2&gt; Self-oscillatory behavior of active sheets&lt;/h2&gt;    Self-oscillating systems are resplendent in biology, enabling the beating of the heart, and the self-organization of slime mold. Through modeling, we design bio-inspired materials systems that spontaneously form shape-changing, self-oscillators, which communicate to synchronize both their temporal and spatial behavior. The distinctive combination of the hydrodynamic, fluid-structure, and steric interactions causes two sheets to form coupled oscillators, whose motion is synchronized in time and space. This breadth of dynamic behavior expands the functionality of the coupled oscillators, enabling soft robots to display a variety of self-sustained, self-regulating moves. &lt;br&gt; &lt;a href=&#34;https://www.pnas.org/content/118/12/e202298711&#34; target=&#34;_blank&#34;&gt;Manna et al, Proc. Natl. Acad. Sci. U.S.A. &lt;b&gt; 118&lt;/b&gt;, 12 (2021)&lt;/a&gt;
+&lt;p&gt;&lt;h2&gt; Self-oscillatory behavior of active sheets&lt;/h2&gt;    Self-oscillating systems are resplendent in biology, enabling the beating of the heart, and the self-organization of slime mold. Through modeling, we design bio-inspired materials systems that spontaneously form shape-changing, self-oscillators, which communicate to synchronize both their temporal and spatial behavior. The distinctive combination of the hydrodynamic, fluid-structure, and steric interactions causes two sheets to form coupled oscillators, whose motion is synchronized in time and space. This breadth of dynamic behavior expands the functionality of the coupled oscillators, enabling soft robots to display a variety of self-sustained, self-regulating moves. &lt;br&gt; &lt;a href=&#34;https://doi.org/10.1073/pnas.2022987118&#34; target=&#34;_blank&#34;&gt;Manna et al, Proc. Natl. Acad. Sci. U.S.A. &lt;b&gt; 118&lt;/b&gt;, 12 (2021)&lt;/a&gt;
 
  
 
@@ -68,7 +68,7 @@ its connectivity, allows all polymer fluids to contain entanglements to some deg
 The effect of these entanglements is explored and studied in detail by the
 reptation model first proposed by de-Gennes. However, such theories
 are limited to passive systems. Here, we extend these studies to the
-case of active polymers in spherical confinement. We find that at moderate polymer densities, spontaneous and persistent collective motion of extensile polymers leads to chain entanglement which cannot be released through active reptation.  On the contrary, contractile polymers always form entangled state independent of density. &lt;br&gt; &lt;a href=&#34;https://www.nature.com/articles/s42254-021-00395-2&#34; target=&#34;_blank&#34;&gt;Manna et al, Soft Matter &lt;b&gt; 15&lt;/b&gt;, 477  (2019)&lt;/a&gt;
+case of active polymers in spherical confinement. We find that at moderate polymer densities, spontaneous and persistent collective motion of extensile polymers leads to chain entanglement which cannot be released through active reptation.  On the contrary, contractile polymers always form entangled state independent of density. &lt;br&gt; &lt;a href=&#34;https://doi.org/10.1039/C8SM01981A&#34; target=&#34;_blank&#34;&gt;Manna et al, Soft Matter &lt;b&gt; 15&lt;/b&gt;, 477  (2019)&lt;/a&gt;
 
  
 
@@ -88,7 +88,7 @@ remarkably, are neither created or annihilated in pairs. Instead, defects
 appear and disappear through active reptation of individual polymer. Our results
 reproduce the phenomenology of several recent experiments and suggest
 non-equilibrium kinetic routes to polymeric structures that are otherwise
-difficult to obtain in equilibrium. &lt;br&gt;&lt;a href=&#34;https://www.nature.com/articles/s42254-021-00395-2&#34; target=&#34;_blank&#34;&gt;Manna et al, Soft Matter &lt;b&gt; 15&lt;/b&gt;, 477  (2019)&lt;/a&gt;
+difficult to obtain in equilibrium. &lt;br&gt;&lt;a href=&#34;https://doi.org/10.1039/C8SM01981A&#34; target=&#34;_blank&#34;&gt;Manna et al, Soft Matter &lt;b&gt; 15&lt;/b&gt;, 477  (2019)&lt;/a&gt;
 
  
 
