@@ -10,7 +10,27 @@
     <atom:link href="/publication1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Chemically driven multimodal locomotion of active, flexible sheets</title>
+      <title>18. Demixing in binary mixtures with differential diffusivity at high density</title>
+      <link>http://rajphys.github.io/publication1/demixing-at-high-density/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/publication1/demixing-at-high-density/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>17. Autonomous Photothermally-driven Fluid Pumping and Particle Transport and Assembly</title>
+      <link>http://rajphys.github.io/publication1/Autonomous-Photothermally-driven-Fluid-Pumping/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rajphys.github.io/publication1/Autonomous-Photothermally-driven-Fluid-Pumping/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>16. Chemically driven multimodal locomotion of active, flexible sheets</title>
       <link>http://rajphys.github.io/publication1/Multimodal-locomotion-of-active-sheet/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
@@ -20,7 +40,7 @@
     </item>
     
     <item>
-      <title>Solutal-buoyancy driven intertwining and rotation of patterned elastic sheets</title>
+      <title>15. Solutal-buoyancy driven intertwining and rotation of patterned elastic sheets</title>
       <link>http://rajphys.github.io/publication1/Solutal-buoyancy-driven-intertwining-and-rotation/</link>
       <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
       
@@ -30,7 +50,7 @@
     </item>
     
     <item>
-      <title>Computer modeling reveals modalities to actuate mutable, active matter</title>
+      <title>14. Computer modeling reveals modalities to actuate mutable, active matter</title>
       <link>http://rajphys.github.io/publication1/Computer_modeling_reveals/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
       
@@ -40,7 +60,7 @@
     </item>
     
     <item>
-      <title>Self-generated convective flows enhance the rates of chemical reactions</title>
+      <title>13. Self-generated convective flows enhance the rates of chemical reactions</title>
       <link>http://rajphys.github.io/publication1/self-generated-convective-fluid-flows/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
       
@@ -50,7 +70,7 @@
     </item>
     
     <item>
-      <title>Harnessing the power of chemically active sheets in solution</title>
+      <title>12. Harnessing the power of chemically active sheets in solution</title>
       <link>http://rajphys.github.io/publication1/harnessing-chemically-active-sheets/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
@@ -60,7 +80,7 @@
     </item>
     
     <item>
-      <title>Colloidal assembly and separation under UV‐induced convective flows and on inclines</title>
+      <title>11. Colloidal assembly and separation under UV‐induced convective flows and on inclines</title>
       <link>http://rajphys.github.io/publication1/colloidal-assembly-and-separation/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
       
@@ -70,7 +90,7 @@
     </item>
     
     <item>
-      <title>Chemical pumps and flexible sheets spontaneously form self-regulating oscillators in solution</title>
+      <title>10. Chemical pumps and flexible sheets spontaneously form self-regulating oscillators in solution</title>
       <link>http://rajphys.github.io/publication1/self-oscillation-sheet/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       
@@ -80,7 +100,7 @@
     </item>
     
     <item>
-      <title>Achieving independent control over surface and bulk fluid flows in microchambers</title>
+      <title>9. Achieving independent control over surface and bulk fluid flows in microchambers</title>
       <link>http://rajphys.github.io/publication1/independent-control-over-surface-and-bulk-fluid-flows/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       
@@ -90,7 +110,7 @@
     </item>
     
     <item>
-      <title>Chemically controlled shape-morphing of elastic sheets</title>
+      <title>8. Chemically controlled shape-morphing of elastic sheets</title>
       <link>http://rajphys.github.io/publication1/chemically-controlled-shape-morphing/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -100,7 +120,7 @@
     </item>
     
     <item>
-      <title>Modeling the biomimetic self-organization of active objects in fluids</title>
+      <title>7. Modeling the biomimetic self-organization of active objects in fluids</title>
       <link>http://rajphys.github.io/publication1/modeling-biomimetic-self-organization/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
       
@@ -110,7 +130,7 @@
     </item>
     
     <item>
-      <title>Light-induced convective segregation of different sized microparticles</title>
+      <title>6. Light-induced convective segregation of different sized microparticles</title>
       <link>http://rajphys.github.io/publication1/light-induced-convective-segregation/</link>
       <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -120,7 +140,7 @@
     </item>
     
     <item>
-      <title>Emergent topological phenomena in active polymeric fluids</title>
+      <title>5. Emergent topological phenomena in active polymeric fluids</title>
       <link>http://rajphys.github.io/publication1/collective-dynamics-active-polymer/</link>
       <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
       
@@ -130,31 +150,11 @@
     </item>
     
     <item>
-      <title>Linking catalyst-coated isotropic colloids into “active” flexible chains enhances their diffusivity</title>
+      <title>4. Linking catalyst-coated isotropic colloids into “active” flexible chains enhances their diffusivity</title>
       <link>http://rajphys.github.io/publication1/active_colloidal_chain/</link>
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://rajphys.github.io/publication1/active_colloidal_chain/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Colloidal transport by active filaments</title>
-      <link>http://rajphys.github.io/publication1/colloidal_transport/</link>
-      <pubDate>Wed, 28 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://rajphys.github.io/publication1/colloidal_transport/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Dynamics of a polyelectrolyte in simple shear flow</title>
-      <link>http://rajphys.github.io/publication1/pe_in_shear_flow/</link>
-      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://rajphys.github.io/publication1/pe_in_shear_flow/</guid>
       <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
